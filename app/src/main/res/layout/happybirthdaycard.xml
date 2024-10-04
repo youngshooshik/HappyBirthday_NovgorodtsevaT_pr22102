@@ -17,7 +17,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Happy Birthday, Tanya!"
+        android:text="@string/happy_birthday_tanya2"
         android:textSize="48sp"
         android:visibility="visible" />
 
@@ -25,13 +25,14 @@
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="From Mom."
+        android:text="@string/from_mom"
         android:textSize="34sp" />
 
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="match_parent"
         android:layout_height="320dp"
+        android:contentDescription="@string/todo2"
         android:src="@drawable/cat" />
 
 </LinearLayout>
