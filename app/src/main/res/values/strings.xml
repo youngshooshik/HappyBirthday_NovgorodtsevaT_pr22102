@@ -5,4 +5,5 @@
     <string name="todo2">TODO</string>
     <string name="happy_birthday_tanya2">Happy Birthday, Tanya!</string>
     <string name="from_mom">From Mom.</string>
+    <string name="from_mom_3"><![CDATA[From Mom <3]]></string>
 </resources>
